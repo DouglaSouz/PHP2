@@ -6,8 +6,8 @@ Projeto desenvolvido a partir do repositório-base:
 
 ## Integrantes
 
-- Dupla: **PREENCHER COM O NOME 1**
-- Dupla: **PREENCHER COM O NOME 2**
+- Dupla: **Douglas de Souza GOmes**
+- Dupla: **Matheus Rowe**
 
 > Substitua os dois nomes acima pelos nomes reais da dupla antes de publicar o repositório.
 
